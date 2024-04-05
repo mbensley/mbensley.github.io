@@ -11,7 +11,6 @@ h2 {
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
 }
 
 #header {
@@ -22,6 +21,13 @@ p {
 
 }
 
+#contact {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
 #bio {
     text-align: center;
+    font-size: 20px;
 }
